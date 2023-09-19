@@ -52,9 +52,9 @@
 ==========footer============= */
 
 .footer {
-  color: white;
+  color: rgb(255, 255, 255);
   padding: 25px;
-  background: #434343; /* fallback for old browsers */
+  background: #716b6b; /* fallback for old browsers */
   /* background: -webkit-linear-gradient(
     to right,
     #434343,
@@ -111,10 +111,11 @@
 .contactus {
   margin: 0;
   padding: 0;
-  height: 70vh;
+  height: 90vh;
   display: flex;
   align-items: center;
   justify-content: center;
+  /* margin-top: 50px; */
 }
 
 /* ==================== */

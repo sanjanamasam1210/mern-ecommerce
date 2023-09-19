@@ -14,12 +14,8 @@ const About = () => {
         </div>
         <div className="col-md-4">
           <p className="text-justify mt-2">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus
-            officiis obcaecati esse tempore unde ratione, eveniet mollitia,
-            perferendis eius temporibus dicta blanditiis doloremque explicabo
-            quasi sunt vero optio cum aperiam vel consectetur! Laborum enim
-            accusantium atque, excepturi sapiente amet! Tenetur ducimus aut
-            commodi illum quidem neque tempora nam.
+          Our E-commerce website represents a pinnacle of modern design, boasting a minimalistic and clean aesthetic that enhances user experience. Specializing exclusively in electronic products, our platform serves as a hub where sellers can effortlessly create accounts and showcase their merchandise, while buyers enjoy a seamless shopping experience.
+          <p className="text-justify mt-2">Equipped with essential features such as a shopping cart, dynamic price filters, and an array of functionalities, our website is meticulously crafted to cater to the diverse needs of both sellers and buyers, ensuring a streamlined and convenient online marketplace for electronic enthusiasts.</p>
           </p>
         </div>
       </div>
