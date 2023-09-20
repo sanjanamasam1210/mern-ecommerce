@@ -29,7 +29,7 @@ app.use("/api/v1/product", productRoutes);
 
 //rest api
 app.get("/", (req, res) => {
-  res.send("<h1>Welcome to TECHBUD</h1>");
+  res.send("<h1>Welcome to PrimeCart</h1>");
 });
 
 //PORT

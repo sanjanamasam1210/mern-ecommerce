@@ -39,7 +39,7 @@ const Login = () => {
     }
   };
   return (
-    <Layout title="Login - TECHBUD">
+    <Layout title="Login - PrimeCart">
       <div className="form-container " style={{ minHeight: "90vh" }}>
         <form onSubmit={handleSubmit}>
           <h4 className="title">LOGIN FORM</h4>
