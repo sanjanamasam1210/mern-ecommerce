@@ -3,7 +3,7 @@
 }
 
 .home-page h1 {
-  color: gray;
+  color: #DBA39A;
   font-family: "Playfair Display", serif;
 }
 
@@ -14,6 +14,9 @@
 .home-page .card {
   background-color: rgba(128, 128, 128, 0.097);
   width: 18rem;
+}
+.home-page .card-body{
+  background-color: #e1cece;
 }
 .home-page .card-name-price {
   display: flex;
@@ -32,6 +35,7 @@
   border-bottom-right-radius: 5px;
   font-size: 14px;
   font-weight: bold;
+  background-color: #DBA39A;
 }
 
 .home-page .card-text {
@@ -50,7 +54,7 @@ filters
 ============== */
 .filters h4 {
   margin-top: 100px;
-  color: gray !important;
+  color: #DBA39A !important;
   border-bottom: 1px solid rgba(128, 128, 128, 0.337);
 }
 
@@ -75,7 +79,8 @@ filters
 }
 
 .loadmore {
-  color: green;
+  color: #DBA39A;
   font-weight: bold;
   font-size: 20px !important;
+  background-color:#F0DBDB !important;
 }

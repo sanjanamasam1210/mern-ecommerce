@@ -107,10 +107,10 @@ const HomePage = () => {
     }
   };
   return (
-    <Layout title={"ALl Products - Best offers "}>
+    <Layout title={"TechBud"}>
       {/* banner image */}
       <img
-        src="/images/banner3.jpg"
+        src="/images/banner7.jpg"
         className="banner-img"
         alt="bannerimage"
         width={"100%"}
